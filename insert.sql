@@ -23,20 +23,20 @@ INSERT INTO public.collections (collection_name,collection_year) VALUES
 
 INSERT INTO public.collectionstracks (collection_id,track_id) VALUES
 	 (1,111),
-	 (3,101),
-	 (3,111),
-	 (4,702),
-	 (5,703),
-	 (5,801),
-	 (5,802),
-	 (6,401),
-	 (6,411),
-	 (6,501),
-	 (7,301),
-	 (7,302),
-	 (8,601),
-	 (9,201),
-	 (9,202);
+	 (2,101),
+	 (2,111),
+	 (3,702),
+	 (4,703),
+	 (4,801),
+	 (4,802),
+	 (5,401),
+	 (5,411),
+	 (5,501),
+	 (6,301),
+	 (6,302),
+	 (7,601),
+	 (8,201),
+	 (8,202);
 
 INSERT INTO public.genres (genre_id,genre_name) VALUES
 	 (5,'Хард-рок'),
